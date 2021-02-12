@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSQM1AtZwqD8/6GL+ai8Zy4WuQNp2s+E86vbbG7l0V9DGS0/mbLIQNjQj3M6GGCbSDCTv6H5AxlCb46Q3YxKEA==",
+  "success": true,
+  "projectFilePath": "/Users/georgiehorth/Desktop/Post Makers/Chitter-Csharp/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/georgiehorth/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/georgiehorth/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/georgiehorth/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/georgiehorth/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/georgiehorth/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/georgiehorth/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
